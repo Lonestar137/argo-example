@@ -1,0 +1,6 @@
+dependencies:
+- name: openmetadata
+  repository: https://helm.open-metadata.org
+  version: 1.6.5
+digest: sha256:6511ec6bb15988b0ff5b31d36d87587ed363e4ce23abe0b193de4ef44376a1e1
+generated: "2025-03-10T05:43:20.143212272-05:00"
